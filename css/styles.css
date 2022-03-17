@@ -1,0 +1,21 @@
+body{
+    background-image: url("/images/matrix.gif");
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 0 -1px black;
+    text-shadow: 2px 2px 5px white;
+}
+
+.header{
+    text-align: center;
+    text-orientation: sideways;
+}
+
+.inspire{
+    font-style: italic;
+    text-align: center;
+    padding-right: 20px;
+}
+
+p{
+    padding-left: 20px;    
+}
